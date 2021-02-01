@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Clean room",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Fix TV",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Buy food",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
